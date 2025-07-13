@@ -1,0 +1,7 @@
+student detail are :-
+1.name = hiren
+roll num = 53
+cgpa = 6.600000
+2.name = ahil
+roll num = 56
+cgpa = 5.300000
